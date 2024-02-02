@@ -1,0 +1,1 @@
+My project is a custom printf function for C programming language called _printf. It has been tailor-made to take various inputs and optional arguments based exactly on how the standard library function printf operates. I am submitting this work as part of the ALX software engineering program requirement for grading.
